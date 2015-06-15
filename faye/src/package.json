@@ -1,0 +1,10 @@
+{
+  "name" : "autohub-faye",
+  "version" : "1.0.0",
+  "preferGlobal": true,
+  "dependencies" : {
+    "faye" : "0.8.9",
+    "util" : "0.4.9",
+    "optimist" : "0.5.2"
+  }
+}

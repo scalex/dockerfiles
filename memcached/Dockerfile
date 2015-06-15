@@ -1,0 +1,2 @@
+FROM memcached
+CMD ["memcached"]
